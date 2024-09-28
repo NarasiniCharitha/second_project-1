@@ -1,0 +1,28 @@
+.container{
+    background-image: url(https://cdn.wallpapersafari.com/7/73/DV9qfJ.jpg);
+    text-align: center;
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+    padding: 5px;
+}
+.main-heading:{
+    color: blue;
+    test-align: center;
+}
+.paragraph{
+    color: grey
+    font-size: 15px;
+    font-family: "Roboto";
+    margin: 10px;
+}
+.button{
+    height: 36px;
+    width: 138px;
+    background-color: aqua;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
